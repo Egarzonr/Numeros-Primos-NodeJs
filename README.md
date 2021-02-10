@@ -3,7 +3,7 @@ Numeros primos
 
 
 #### Correr el proyecto 
-Usando postman y enviar un 
+Usando postman enviar un 
 Body -> x-www-form-urlencoded ->
 Key: input
 Value: 15
