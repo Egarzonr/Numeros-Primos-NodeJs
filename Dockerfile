@@ -1,8 +1,7 @@
-FROM node:12.18-alpine
-RUN mkdir /my_app
-COPY app.js /my_app
-COPY package.json /my_app
-WORKDIR /my_app
+FROM node:12
+WORKDIR /app
+RUN mkdir /app
+COPY package*.json ./
 RUN npm install
-EXPOSE 3000
-CMD node app.js
+COPY . .
+CMD ["npm", "start"]
