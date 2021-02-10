@@ -3,14 +3,11 @@ Numeros primos
 
 
 #### Correr el proyecto 
-
-
 Usando postman y enviar un 
 Body -> x-www-form-urlencoded ->
-Key          Value
-input         15
-
-
+Key: input
+Value: 15
+       
 #### docker images
 docker images
 #### docker build 
