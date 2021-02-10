@@ -7,8 +7,7 @@ Numeros primos
 - correr el proyecto
 - Usar postman con una peticion Get a http://localhost:4000/prime
 - enviar un Body -> x-www-form-urlencoded ->
-Key: input
-Value: 15
+- Key: input, Value: 15
        
 #### docker images
 docker images
