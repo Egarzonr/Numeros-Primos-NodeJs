@@ -3,7 +3,8 @@ Numeros primos
 
 
 #### Correr el proyecto 
-- bajar el repo o la imagen de Docker
+- bajar el repo  Github o la imagen de Docker 
+- https://hub.docker.com/r/egarzonr/node-restapi
 - correr el proyecto
 - Usar postman con una peticion Get a http://localhost:4000/prime
 - enviar un Body -> x-www-form-urlencoded ->
