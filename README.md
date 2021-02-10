@@ -3,8 +3,10 @@ Numeros primos
 
 
 #### Correr el proyecto 
-Usando postman enviar un 
-Body -> x-www-form-urlencoded ->
+- bajar el repo o la imagen de Docker
+- correr el proyecto
+- Usar postman con una peticion Get a http://localhost:4000/prime
+- enviar un Body -> x-www-form-urlencoded ->
 Key: input
 Value: 15
        
