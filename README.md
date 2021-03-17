@@ -1,4 +1,4 @@
-# Amaris
+# Numeros Primos NodeJs
 Numeros primos
 
 
